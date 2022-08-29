@@ -1,4 +1,4 @@
-# --Tracking
+# 寻迹-Tracking
 寻迹App技术开发及支持文档
 基于UIKit和CoreML进行开发，通过DeepLabv3训练模型进行CoreML格式转换
 寻迹是一款为古书画修复工作者提供辅助的工具类App
