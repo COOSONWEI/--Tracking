@@ -7,7 +7,14 @@
 
 AR修复开发进度——可在iOS设备上正常运行，可以做简单的交互，后序开发以及模型的制作还在进行中尽情期待！
 <video src="http://qiniu.liyucreate.com/InstractApp/RPReplay_Final1657044849.mp4"></video>
+<video width="320" height="240" controls autoplay>
 
+  <source src="[movie.mp4](http://qiniu.liyucreate.com/InstractApp/RPReplay_Final1657044849.mp4)" type="video/mp4">
+  
+  <object data="movie.mp4" width="320" height="240">
+    <embed width="320" height="240" src="movie.swf">
+  </object>
+</video>
 病害扫描识别功能开发进度——可在iOS设备上正常运行，目前仅可以识别部分病害，开发正在进行中敬请期待！
 <video src="http://qiniu.liyucreate.com/InstractApp/RPReplay_Final1657034744.MP4"></video>
 如有任何问题可以联系：weikkxin@163.com
